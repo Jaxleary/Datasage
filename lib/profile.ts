@@ -29,7 +29,8 @@ function parseNumber(value: CellValue): number | null {
 
 function parseDate(value: CellValue): Date | null {
   const text = clean(value);
-  if (!text || /^\d+(\.\d+)?$/.test(text)) return null;
+  const looksLikeDate = /^\d{4}-\d{1,2}-\d{1,2}$/.test(text) || /^\d{1,2}\/\d{1,2}\/\d{2,4}$/.test(text);
+  if (!looksLikeDate) return null;
   const date = new Date(text);
   return Number.isNaN(date.valueOf()) ? null : date;
 }
@@ -89,22 +90,24 @@ function makeChart(
   columns: ColumnProfile[],
   categorySummaries: CategorySummary[],
 ): ChartConfig | null {
-  const firstNumeric = columns.find((column) => column.kind === "number");
-  const firstDimension = columns.find((column) => column.kind === "category" || column.kind === "date");
-  if (!firstNumeric || !firstDimension) return null;
-  const source = categorySummaries.find((summary) => summary.column === firstDimension.name);
+  const metric = columns.find((column) => /revenue|sales|gross profit|profit/i.test(column.name) && column.kind === "number")
+    ?? columns.find((column) => column.kind === "number");
+  if (!metric) return null;
+
+  const preferredDimension = ["product category", "category", "region", "sales channel", "channel", "campaign"];
+  const source = preferredDimension
+    .map((name) => categorySummaries.find((summary) => summary.column.toLowerCase() === name))
+    .find((summary): summary is CategorySummary => Boolean(summary))
+    ?? categorySummaries[0];
   if (!source) return null;
   const data = source.values
-    .map((item) => ({ label: item.value, value: item.metrics[firstNumeric.name]?.sum ?? 0 }))
+    .map((item) => ({ label: item.value, value: item.metrics[metric.name]?.sum ?? 0 }))
     .filter((item) => Number.isFinite(item.value));
   if (!data.length) return null;
-  if (firstDimension.kind === "date") {
-    data.sort((a, b) => Date.parse(a.label) - Date.parse(b.label));
-  }
   return {
-    type: firstDimension.kind === "date" ? "line" : "bar",
-    xKey: firstDimension.name,
-    yKey: firstNumeric.name,
+    type: "bar",
+    xKey: source.column,
+    yKey: metric.name,
     data,
   };
 }
