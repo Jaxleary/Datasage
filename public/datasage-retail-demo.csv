@@ -1,0 +1,145 @@
+Order Date,Order ID,Region,City,Sales Channel,Campaign,Product Category,Product,Units Sold,Discount Percent,Revenue,Marketing Spend,Gross Profit,Customer Satisfaction,Returned
+2026-01-05,DS-1001,West,Los Angeles,Online,Always-On Search,Software,Workflow Pro,26,0.00,5174.00,196.77,3833.23,,Yes
+2026-01-06,DS-1002,East,New York,Partner,Spring Bundle,Services,Onboarding Bundle,8,0.03,7020.00,283.40,3376.60,4.8,No
+2026-01-07,DS-1003,South,Austin,Retail Store,Email Nurture,Hardware,Smart Display,8,0.18,2820.80,69.75,687.05,4.3,No
+2026-01-08,DS-1004,Midwest,Chicago,Online,Partner Webinar,Accessories,Docking Station,20,0.08,2668.00,192.28,915.72,4.2,No
+2026-01-09,DS-1005,West,Los Angeles,Partner,Always-On Search,Software,Insight Analytics,21,0.03,7145.78,171.10,5462.68,4.6,No
+2026-01-10,DS-1006,East,New York,Retail Store,Spring Bundle,Services,Premium Support,11,0.05,6792.50,283.40,3759.10,5,No
+2026-01-12,DS-1007,South,Austin,Retail Store,Spring Bundle,Services,Onboarding Bundle,6,0.00,5400.00,241.80,2638.20,4.8,No
+2026-01-13,DS-1008,Midwest,Chicago,Online,Email Nurture,Hardware,Smart Display,16,0.15,5848.00,75.90,1644.10,4.3,No
+2026-01-14,DS-1009,West,Los Angeles,Partner,Partner Webinar,Accessories,Docking Station,19,0.12,2424.40,224.20,718.20,4.2,No
+2026-01-15,DS-1010,East,New York,Retail Store,Always-On Search,Software,Insight Analytics,20,0.00,6980.00,158.05,5381.95,4.6,No
+2026-01-16,DS-1011,South,Austin,Online,Spring Bundle,Services,Premium Support,9,0.03,5703.75,278.07,3175.68,5,No
+2026-01-17,DS-1012,Midwest,Chicago,Partner,Email Nurture,Software,Workflow Pro,14,0.05,2646.70,66.00,1964.70,4.6,No
+2026-01-19,DS-1013,West,Los Angeles,Partner,Email Nurture,Hardware,Smart Display,14,0.12,5297.60,88.50,1597.10,4.3,No
+2026-01-20,DS-1014,East,New York,Retail Store,Partner Webinar,Accessories,Docking Station,18,0.08,2401.20,207.10,790.10,4.2,No
+2026-01-21,DS-1015,South,Austin,Online,Always-On Search,Software,Insight Analytics,27,0.05,8951.85,155.08,6852.77,4.6,No
+2026-01-22,DS-1016,Midwest,Chicago,Partner,Spring Bundle,Services,Premium Support,4,0.00,2600.00,228.80,1371.20,5,No
+2026-01-23,DS-1017,West,Los Angeles,Retail Store,Email Nurture,Software,Workflow Pro,30,0.03,5820.75,88.50,4412.25,4.6,No
+2026-01-24,DS-1018,East,New York,Online,Partner Webinar,Services,Onboarding Bundle,9,0.05,7695.00,238.17,3676.83,,No
+2026-01-26,DS-1019,South,Austin,Online,Partner Webinar,Accessories,Docking Station,15,0.12,1914.00,203.21,540.79,4.2,No
+2026-01-27,DS-1020,Midwest,Chicago,Partner,Always-On Search,Software,Insight Analytics,18,0.03,6124.95,127.60,4701.35,4.6,No
+2026-01-28,DS-1021,West,Los Angeles,Retail Store,Spring Bundle,Services,Premium Support,5,0.05,3087.50,306.80,1530.70,5,No
+2026-01-29,DS-1022,East,New York,Online,Email Nurture,Software,Workflow Pro,30,0.00,5970.00,94.01,4555.99,4.6,No
+2026-01-30,DS-1023,South,Austin,Partner,Partner Webinar,Services,Onboarding Bundle,4,0.03,3510.00,176.70,1653.30,4.8,No
+2026-01-31,DS-1024,Midwest,Chicago,Retail Store,Always-On Search,Hardware,Smart Display,14,0.18,4936.40,127.60,1196.80,4.3,No
+2026-02-02,DS-1025,West,Los Angeles,Retail Store,Always-On Search,Software,Insight Analytics,25,0.00,8725.00,171.10,6753.90,4.6,No
+2026-02-03,DS-1026,East,New York,Online,Spring Bundle,Services,Premium Support,13,0.03,8238.75,325.91,4662.84,5,No
+2026-02-04,DS-1027,South,Austin,Partner,Email Nurture,Software,Workflow Pro,18,0.05,3402.90,69.75,2541.15,4.6,No
+2026-02-05,DS-1028,Midwest,Chicago,Retail Store,Partner Webinar,Services,Onboarding Bundle,2,0.00,1800.00,167.20,792.80,4.8,No
+2026-02-06,DS-1029,West,Los Angeles,Online,Always-On Search,Hardware,Smart Display,17,0.15,6213.50,196.77,1630.73,4.3,No
+2026-02-07,DS-1030,East,New York,Partner,Spring Bundle,Accessories,Docking Station,14,0.08,1867.60,283.40,492.20,4.2,No
+2026-02-09,DS-1031,South,Austin,Partner,Spring Bundle,Services,Premium Support,8,0.00,5200.00,241.80,2958.20,5,No
+2026-02-10,DS-1032,Midwest,Chicago,Retail Store,Email Nurture,Software,Workflow Pro,17,0.03,3298.43,66.00,2484.43,4.6,No
+2026-02-11,DS-1033,West,Los Angeles,Online,Partner Webinar,Services,Onboarding Bundle,13,0.05,11115.00,257.83,5397.17,4.8,No
+2026-02-12,DS-1034,East,New York,Partner,Always-On Search,Hardware,Smart Display,11,0.12,4162.40,158.05,1166.35,4.3,No
+2026-02-13,DS-1035,South,Austin,Retail Store,Spring Bundle,Accessories,Docking Station,21,0.12,2679.60,241.80,799.80,,No
+2026-02-14,DS-1036,Midwest,Chicago,Online,Email Nurture,Software,Insight Analytics,22,0.05,7294.10,75.90,5634.20,4.6,No
+2026-02-16,DS-1037,West,Los Angeles,Online,Email Nurture,Software,Workflow Pro,26,0.00,5174.00,101.78,3928.22,4.6,No
+2026-02-17,DS-1038,East,New York,Partner,Partner Webinar,Services,Onboarding Bundle,8,0.03,7020.00,207.10,3452.90,4.8,No
+2026-02-18,DS-1039,South,Austin,Retail Store,Always-On Search,Hardware,Smart Display,8,0.18,2820.80,134.85,621.95,4.3,No
+2026-02-19,DS-1040,Midwest,Chicago,Online,Spring Bundle,Accessories,Docking Station,20,0.08,2668.00,263.12,844.88,4.2,No
+2026-02-20,DS-1041,West,Los Angeles,Partner,Email Nurture,Software,Insight Analytics,21,0.03,7145.78,88.50,5545.28,4.6,No
+2026-02-21,DS-1042,East,New York,Retail Store,Partner Webinar,Services,Premium Support,11,0.05,6792.50,207.10,3835.40,5,No
+2026-02-23,DS-1043,South,Austin,Retail Store,Partner Webinar,Services,Onboarding Bundle,6,0.00,5400.00,176.70,2703.30,4.8,No
+2026-02-24,DS-1044,Midwest,Chicago,Online,Always-On Search,Hardware,Smart Display,16,0.15,5848.00,146.74,1573.26,4.3,No
+2026-02-25,DS-1045,West,Los Angeles,Partner,Spring Bundle,Accessories,Docking Station,19,0.12,2424.40,306.80,635.60,4.2,No
+2026-02-26,DS-1046,East,New York,Retail Store,Email Nurture,Software,Insight Analytics,20,0.00,6980.00,81.75,5458.25,4.6,No
+2026-02-27,DS-1047,South,Austin,Online,Partner Webinar,Services,Premium Support,9,0.03,5703.75,203.21,3250.54,5,No
+2026-02-28,DS-1048,Midwest,Chicago,Partner,Always-On Search,Software,Workflow Pro,14,0.05,2646.70,127.60,1903.10,4.6,No
+2026-03-02,DS-1049,West,Los Angeles,Partner,Always-On Search,Hardware,Smart Display,14,0.12,5297.60,171.10,1514.50,4.3,No
+2026-03-03,DS-1050,East,New York,Retail Store,Spring Bundle,Accessories,Docking Station,18,0.08,2401.20,283.40,713.80,4.2,No
+2026-03-04,DS-1051,South,Austin,Online,Email Nurture,Software,Insight Analytics,27,0.05,8951.85,80.21,6927.64,4.6,No
+2026-03-05,DS-1052,Midwest,Chicago,Partner,Partner Webinar,Services,Premium Support,4,0.00,2600.00,167.20,1432.80,,No
+2026-03-06,DS-1053,West,Los Angeles,Retail Store,Always-On Search,Software,Workflow Pro,30,0.03,5820.75,171.10,4329.65,3.9,Yes
+2026-03-07,DS-1054,East,New York,Online,Spring Bundle,Services,Onboarding Bundle,9,0.05,7695.00,325.91,3589.09,4.8,No
+2026-03-09,DS-1055,South,Austin,Online,Spring Bundle,Accessories,Docking Station,15,0.12,1914.00,278.07,465.93,4.2,No
+2026-03-10,DS-1056,Midwest,Chicago,Partner,Email Nurture,Software,Insight Analytics,18,0.03,6124.95,66.00,4762.95,4.6,No
+2026-03-11,DS-1057,West,Los Angeles,Retail Store,Partner Webinar,Services,Premium Support,5,0.05,3087.50,224.20,1613.30,5,No
+2026-03-12,DS-1058,East,New York,Online,Always-On Search,Software,Workflow Pro,30,0.00,5970.00,181.76,4468.24,4.6,No
+2026-03-13,DS-1059,South,Austin,Partner,Spring Bundle,Services,Onboarding Bundle,4,0.03,3510.00,241.80,1588.20,4.8,No
+2026-03-14,DS-1060,Midwest,Chicago,Retail Store,Email Nurture,Hardware,Smart Display,14,0.18,4936.40,66.00,1258.40,4.3,No
+2026-03-16,DS-1061,West,Los Angeles,Retail Store,Email Nurture,Software,Insight Analytics,25,0.00,8725.00,88.50,6836.50,4.6,No
+2026-03-17,DS-1062,East,New York,Online,Partner Webinar,Services,Premium Support,13,0.03,8238.75,238.17,4750.58,5,No
+2026-03-18,DS-1063,South,Austin,Partner,Always-On Search,Software,Workflow Pro,18,0.05,3402.90,134.85,2476.05,4.6,No
+2026-03-19,DS-1064,Midwest,Chicago,Retail Store,Spring Bundle,Services,Onboarding Bundle,2,0.00,1800.00,228.80,731.20,4.8,No
+2026-03-20,DS-1065,West,Los Angeles,Online,Email Nurture,Hardware,Smart Display,17,0.15,6213.50,101.78,1725.72,4.3,No
+2026-03-21,DS-1066,East,New York,Partner,Partner Webinar,Accessories,Docking Station,14,0.08,1867.60,207.10,568.50,4.2,No
+2026-03-23,DS-1067,South,Austin,Partner,Partner Webinar,Services,Premium Support,8,0.00,5200.00,176.70,3023.30,5,No
+2026-03-24,DS-1068,Midwest,Chicago,Retail Store,Always-On Search,Software,Workflow Pro,17,0.03,3298.43,127.60,2422.83,4.6,No
+2026-03-25,DS-1069,West,Los Angeles,Online,Spring Bundle,Services,Onboarding Bundle,13,0.05,11115.00,352.82,5302.18,,No
+2026-03-26,DS-1070,East,New York,Partner,Email Nurture,Hardware,Smart Display,11,0.12,4162.40,81.75,1242.65,4.3,No
+2026-03-27,DS-1071,South,Austin,Retail Store,Partner Webinar,Accessories,Docking Station,21,0.12,2679.60,176.70,864.90,4.2,No
+2026-03-28,DS-1072,Midwest,Chicago,Online,Always-On Search,Software,Insight Analytics,22,0.05,7294.10,146.74,5563.36,4.6,No
+2026-03-30,DS-1073,West,Los Angeles,Online,Always-On Search,Software,Workflow Pro,26,0.00,5174.00,196.77,3833.23,4.6,No
+2026-03-31,DS-1074,East,New York,Partner,Spring Bundle,Services,Onboarding Bundle,8,0.03,7020.00,283.40,3376.60,4.8,No
+2026-04-01,DS-1075,South,Austin,Retail Store,Email Nurture,Hardware,Smart Display,8,0.18,2820.80,69.75,687.05,3.6,Yes
+2026-04-02,DS-1076,Midwest,Chicago,Online,Partner Webinar,Accessories,Docking Station,20,0.08,2668.00,192.28,915.72,4.2,No
+2026-04-03,DS-1077,West,Los Angeles,Partner,Always-On Search,Software,Insight Analytics,21,0.03,7145.78,171.10,5462.68,4.6,No
+2026-04-04,DS-1078,East,New York,Retail Store,Spring Bundle,Services,Premium Support,11,0.05,6792.50,283.40,3759.10,5,No
+2026-04-06,DS-1079,South,Austin,Retail Store,Spring Bundle,Services,Onboarding Bundle,7,0.00,6300.00,241.80,3118.20,4.8,No
+2026-04-07,DS-1080,Midwest,Chicago,Online,Email Nurture,Hardware,Smart Display,19,0.15,6944.50,75.90,1966.60,3.6,Yes
+2026-04-08,DS-1081,West,Los Angeles,Partner,Partner Webinar,Accessories,Docking Station,23,0.12,2934.80,224.20,916.60,4.2,No
+2026-04-09,DS-1082,East,New York,Retail Store,Always-On Search,Software,Insight Analytics,25,0.00,8725.00,158.05,6766.95,4.6,No
+2026-04-10,DS-1083,South,Austin,Online,Spring Bundle,Services,Premium Support,10,0.03,6337.50,278.07,3559.43,5,No
+2026-04-11,DS-1084,Midwest,Chicago,Partner,Email Nurture,Software,Workflow Pro,18,0.05,3402.90,66.00,2544.90,4.6,No
+2026-04-13,DS-1085,West,Los Angeles,Partner,Email Nurture,Hardware,Smart Display,17,0.12,6432.80,88.50,1958.30,4.3,No
+2026-04-14,DS-1086,East,New York,Retail Store,Partner Webinar,Accessories,Docking Station,22,0.08,2934.80,207.10,1011.70,,No
+2026-04-15,DS-1087,South,Austin,Online,Always-On Search,Software,Insight Analytics,32,0.05,10609.60,155.08,8150.52,4.6,No
+2026-04-16,DS-1088,Midwest,Chicago,Partner,Spring Bundle,Services,Premium Support,6,0.00,3900.00,228.80,2171.20,5,No
+2026-04-17,DS-1089,West,Los Angeles,Retail Store,Email Nurture,Software,Workflow Pro,36,0.03,6984.90,88.50,5312.40,4.6,No
+2026-04-18,DS-1090,East,New York,Online,Partner Webinar,Services,Onboarding Bundle,11,0.05,9405.00,238.17,4546.83,4.8,No
+2026-04-20,DS-1091,South,Austin,Online,Partner Webinar,Accessories,Docking Station,20,0.12,2552.00,203.21,788.79,3.6,Yes
+2026-04-21,DS-1092,Midwest,Chicago,Partner,Always-On Search,Software,Insight Analytics,22,0.03,7486.05,127.60,5774.45,4.6,No
+2026-04-22,DS-1093,West,Los Angeles,Retail Store,Spring Bundle,Services,Premium Support,7,0.05,4322.50,306.80,2265.70,5,No
+2026-04-23,DS-1094,East,New York,Online,Email Nurture,Software,Workflow Pro,36,0.00,7164.00,94.01,5485.99,4.6,No
+2026-04-24,DS-1095,South,Austin,Partner,Partner Webinar,Services,Onboarding Bundle,5,0.03,4387.50,176.70,2110.80,4.8,No
+2026-04-25,DS-1096,Midwest,Chicago,Retail Store,Always-On Search,Hardware,Smart Display,16,0.18,5641.60,127.60,1386.00,4.3,No
+2026-04-27,DS-1097,West,Los Angeles,Retail Store,Always-On Search,Software,Insight Analytics,31,0.00,10819.00,171.10,8415.90,4.6,No
+2026-04-28,DS-1098,East,New York,Online,Spring Bundle,Services,Premium Support,15,0.03,9506.25,325.91,5430.34,5,No
+2026-04-29,DS-1099,South,Austin,Partner,Email Nurture,Software,Workflow Pro,22,0.05,4159.10,69.75,3121.35,4.6,No
+2026-04-30,DS-1100,Midwest,Chicago,Retail Store,Partner Webinar,Services,Onboarding Bundle,4,0.00,3600.00,167.20,1752.80,4.8,No
+2026-05-01,DS-1101,West,Los Angeles,Online,Always-On Search,Hardware,Smart Display,21,0.15,7675.50,196.77,2060.73,4.3,No
+2026-05-02,DS-1102,East,New York,Partner,Spring Bundle,Accessories,Docking Station,18,0.08,2401.20,283.40,713.80,4.2,No
+2026-05-04,DS-1103,South,Austin,Partner,Spring Bundle,Services,Premium Support,9,0.00,5850.00,241.80,3358.20,,No
+2026-05-05,DS-1104,Midwest,Chicago,Retail Store,Email Nurture,Software,Workflow Pro,22,0.03,4268.55,66.00,3234.55,4.6,No
+2026-05-06,DS-1105,West,Los Angeles,Online,Partner Webinar,Services,Onboarding Bundle,15,0.05,12825.00,257.83,6267.17,4.8,No
+2026-05-07,DS-1106,East,New York,Partner,Always-On Search,Hardware,Smart Display,13,0.12,4919.20,158.05,1407.15,4.3,No
+2026-05-08,DS-1107,South,Austin,Retail Store,Spring Bundle,Accessories,Docking Station,24,0.12,3062.40,241.80,948.60,4.2,No
+2026-05-09,DS-1108,Midwest,Chicago,Online,Email Nurture,Software,Insight Analytics,27,0.05,8951.85,75.90,6931.95,4.6,No
+2026-05-11,DS-1109,West,Los Angeles,Online,Email Nurture,Software,Workflow Pro,33,0.00,6567.00,101.78,5013.22,4.6,No
+2026-05-12,DS-1110,East,New York,Partner,Partner Webinar,Services,Onboarding Bundle,9,0.03,7897.50,207.10,3910.40,4.8,No
+2026-05-13,DS-1111,South,Austin,Retail Store,Always-On Search,Hardware,Smart Display,11,0.18,3878.60,134.85,905.75,4.3,No
+2026-05-14,DS-1112,Midwest,Chicago,Online,Spring Bundle,Accessories,Docking Station,24,0.08,3201.60,263.12,1066.48,4.2,No
+2026-05-15,DS-1113,West,Los Angeles,Partner,Email Nurture,Software,Insight Analytics,26,0.03,8847.15,88.50,6886.65,4.6,No
+2026-05-16,DS-1114,East,New York,Retail Store,Partner Webinar,Services,Premium Support,12,0.05,7410.00,207.10,4202.90,5,No
+2026-05-18,DS-1115,South,Austin,Retail Store,Partner Webinar,Services,Onboarding Bundle,7,0.00,6300.00,176.70,3183.30,4.8,No
+2026-05-19,DS-1116,Midwest,Chicago,Online,Always-On Search,Hardware,Smart Display,19,0.15,6944.50,146.74,1895.76,4.3,No
+2026-05-20,DS-1117,West,Los Angeles,Partner,Spring Bundle,Accessories,Docking Station,23,0.12,2934.80,306.80,834.00,4.2,No
+2026-05-21,DS-1118,East,New York,Retail Store,Email Nurture,Software,Insight Analytics,25,0.00,8725.00,81.75,6843.25,4.6,No
+2026-05-22,DS-1119,South,Austin,Online,Partner Webinar,Services,Premium Support,10,0.03,6337.50,203.21,3634.29,5,No
+2026-05-23,DS-1120,Midwest,Chicago,Partner,Always-On Search,Software,Workflow Pro,18,0.05,3402.90,127.60,2483.30,,No
+2026-05-25,DS-1121,West,Los Angeles,Partner,Always-On Search,Hardware,Smart Display,15,0.12,5676.00,171.10,1634.90,4.3,No
+2026-05-26,DS-1122,East,New York,Retail Store,Spring Bundle,Accessories,Docking Station,19,0.08,2534.60,283.40,769.20,4.2,No
+2026-05-27,DS-1123,South,Austin,Online,Email Nurture,Software,Insight Analytics,29,0.05,9614.95,80.21,7446.74,4.6,No
+2026-05-28,DS-1124,Midwest,Chicago,Partner,Partner Webinar,Services,Premium Support,5,0.00,3250.00,167.20,1832.80,5,No
+2026-05-29,DS-1125,West,Los Angeles,Retail Store,Always-On Search,Software,Workflow Pro,32,0.03,6208.80,171.10,4629.70,4.6,No
+2026-05-30,DS-1126,East,New York,Online,Spring Bundle,Services,Onboarding Bundle,10,0.05,8550.00,325.91,4024.09,4.8,No
+2026-06-01,DS-1127,South,Austin,Online,Spring Bundle,Accessories,Docking Station,17,0.12,2169.20,278.07,565.13,4.2,No
+2026-06-02,DS-1128,Midwest,Chicago,Partner,Email Nurture,Software,Insight Analytics,19,0.03,6465.23,66.00,5031.23,4.6,No
+2026-06-03,DS-1129,West,Los Angeles,Retail Store,Partner Webinar,Services,Premium Support,6,0.05,3705.00,224.20,1980.80,5,No
+2026-06-04,DS-1130,East,New York,Online,Always-On Search,Software,Workflow Pro,32,0.00,6368.00,181.76,4778.24,4.6,No
+2026-06-05,DS-1131,South,Austin,Partner,Spring Bundle,Services,Onboarding Bundle,4,0.03,3510.00,241.80,1588.20,4.8,No
+2026-06-06,DS-1132,Midwest,Chicago,Retail Store,Email Nurture,Hardware,Smart Display,14,0.18,4936.40,66.00,1258.40,3.6,Yes
+2026-06-08,DS-1133,West,Los Angeles,Retail Store,Email Nurture,Software,Insight Analytics,27,0.00,9423.00,88.50,7390.50,4.6,No
+2026-06-09,DS-1134,East,New York,Online,Partner Webinar,Services,Premium Support,14,0.03,8872.50,238.17,5134.33,5,No
+2026-06-10,DS-1135,South,Austin,Partner,Always-On Search,Software,Workflow Pro,19,0.05,3591.95,134.85,2621.10,4.6,No
+2026-06-11,DS-1136,Midwest,Chicago,Retail Store,Spring Bundle,Services,Onboarding Bundle,3,0.00,2700.00,228.80,1211.20,4.8,No
+2026-06-12,DS-1137,West,Los Angeles,Online,Email Nurture,Hardware,Smart Display,19,0.15,6944.50,101.78,1940.72,,No
+2026-06-13,DS-1138,East,New York,Partner,Partner Webinar,Accessories,Docking Station,16,0.08,2134.40,207.10,679.30,4.2,No
+2026-06-15,DS-1139,South,Austin,Partner,Partner Webinar,Services,Premium Support,8,0.00,5200.00,176.70,3023.30,5,No
+2026-06-16,DS-1140,Midwest,Chicago,Retail Store,Always-On Search,Software,Workflow Pro,19,0.03,3686.48,127.60,2722.88,4.6,No
+2026-06-17,DS-1141,West,Los Angeles,Online,Spring Bundle,Services,Onboarding Bundle,13,0.05,11115.00,352.82,5302.18,4.8,No
+2026-06-18,DS-1142,East,New York,Partner,Email Nurture,Hardware,Smart Display,11,0.12,4162.40,81.75,1242.65,4.3,No
+2026-06-19,DS-1143,South,Austin,Retail Store,Partner Webinar,Accessories,Docking Station,22,0.12,2807.20,176.70,914.50,3.6,Yes
+2026-06-20,DS-1144,Midwest,Chicago,Online,Always-On Search,Software,Insight Analytics,24,0.05,7957.20,146.74,6082.46,4.6,No

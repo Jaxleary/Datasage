@@ -75,7 +75,7 @@ function UploadView({ onFile }: { onFile: (file: File) => void }) {
               />
               <button className="button button-primary" onClick={() => inputRef.current?.click()}>Choose a CSV</button>
               <div style={{ marginTop: 14 }}>
-                <a className="eyebrow" href="/sample-sales.csv" download>Download a sample sales CSV →</a>
+                <a className="eyebrow" href="/datasage-retail-demo.csv" download>Download the retail demo CSV →</a>
               </div>
               <p className="privacy"><span>◉</span><span>Demo-safe only. Do not upload confidential, personal, or regulated data. Version 1 does not save files.</span></p>
             </div>
@@ -266,5 +266,5 @@ export default function Home() {
     });
   };
 
-  return <div className="shell"><div className="grain" /><nav className="page nav"><Brand /><a className="button button-secondary" href="/sample-sales.csv" download>Try the sample</a></nav>{profile ? <ResultsView profile={profile} onReset={() => { setProfile(null); setError(null); }} /> : <>{reading && <div className="page error">Reading your CSV…</div>}{error && <div className="page error">{error}</div>}<UploadView onFile={processFile} /></>}</div>;
+  return <div className="shell"><div className="grain" /><nav className="page nav"><Brand /><a className="button button-secondary" href="/datasage-retail-demo.csv" download>Try the demo data</a></nav>{profile ? <ResultsView profile={profile} onReset={() => { setProfile(null); setError(null); }} /> : <>{reading && <div className="page error">Reading your CSV…</div>}{error && <div className="page error">{error}</div>}<UploadView onFile={processFile} /></>}</div>;
 }
