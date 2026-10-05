@@ -1,0 +1,25 @@
+Order Date,Region,Product Category,Product,Units Sold,Revenue,Customer Rating
+2026-01-05,West,Technology,Wireless Headphones,42,3780,4.6
+2026-01-08,East,Office Supplies,Notebook Set,86,1032,4.2
+2026-01-12,South,Furniture,Ergonomic Chair,18,4860,4.8
+2026-01-19,West,Technology,USB-C Hub,55,2475,4.4
+2026-02-03,North,Office Supplies,Desk Organizer,64,1216,4.1
+2026-02-06,East,Technology,Webcam,31,2790,4.5
+2026-02-13,South,Furniture,Standing Desk,14,5320,4.7
+2026-02-20,West,Office Supplies,Notebook Set,91,1092,4.3
+2026-03-02,North,Technology,Wireless Headphones,37,3330,4.7
+2026-03-05,East,Furniture,Ergonomic Chair,22,5940,4.9
+2026-03-11,South,Office Supplies,Desk Organizer,70,1330,4.0
+2026-03-18,West,Technology,Webcam,45,4050,4.4
+2026-04-01,North,Furniture,Standing Desk,16,6080,4.8
+2026-04-04,East,Office Supplies,Notebook Set,78,936,4.2
+2026-04-09,South,Technology,USB-C Hub,62,2790,4.5
+2026-04-15,West,Furniture,Ergonomic Chair,20,5400,4.7
+2026-05-03,North,Office Supplies,Desk Organizer,59,1121,4.1
+2026-05-07,East,Technology,Wireless Headphones,48,4320,4.8
+2026-05-14,South,Furniture,Standing Desk,19,7220,4.9
+2026-05-21,West,Office Supplies,Notebook Set,95,1140,4.3
+2026-06-02,North,Technology,Webcam,39,3510,4.5
+2026-06-08,East,Furniture,Ergonomic Chair,25,6750,4.8
+2026-06-16,South,Office Supplies,Desk Organizer,73,1387,4.2
+2026-06-24,West,Technology,USB-C Hub,67,3015,4.6
